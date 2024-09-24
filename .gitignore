@@ -1,0 +1,36 @@
+# Ignore jupyter notebook checkpoint folders
+.ipynb_checkpoints/
+
+# Ignoring test.py because it's a test file (scratch stuff)
+test.py
+
+# Ignore vscode local configuration (if used)
+.vscode/
+
+# This directory contains Python's compiled bytecode files, and can be ignored to prevent version control conflicts.
+__pycache__/
+
+# This wildcard expression matches compiled Python files and can be ignored to prevent version control conflicts.
+*.pyc 
+
+# This wildcard expression matches optimized Python files and can be ignored to prevent version control conflicts.
+*.pyo
+
+# This directory contains the Conda environment and should be ignored to avoid tracking environment-specific files.
+env/
+
+# This file is created by macOS to store folder-specific metadata, and can be safely ignored.
+.DS_Store
+
+# This directory is created by PyCharm and can be ignored if you are using a different IDE.
+.idea/
+
+# This wildcard expression matches log files and can be ignored to prevent version control conflicts.
+*.log
+
+# This directory contains metadata about Python packages installed using pip and can be ignored to prevent version control conflicts.
+*.egg-info/
+
+# This wildcard expression matches original files and can be ignored to prevent version control conflicts.
+*.orig
+
