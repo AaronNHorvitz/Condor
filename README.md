@@ -1,3 +1,5 @@
+# UNDER DEVELOPMENT
+
 # Condor
 
 Condor is a comprehensive research project focused on the development and implementation of various trading, forecasting, and portfolio optimization algorithms. The objective is to create a versatile trading bot capable of operating across all asset classes, while incorporating a wide range of financial information and external pricing data from relevant sources.
